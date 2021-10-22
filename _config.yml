@@ -1,0 +1,11 @@
+title: New template
+author: Riaz Cajee
+email: riaz.cajee@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is my new site with an amended template
+
+# social links
+twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+github_username: riazcajee
+
+show_excerpts: true # set to false to remove excerpts on the homepage
